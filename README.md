@@ -21,6 +21,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## String
@@ -53,5 +54,10 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
