@@ -164,4 +164,8 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
