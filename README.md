@@ -56,6 +56,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0344-reverse-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0696-count-binary-substrings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Simulation
@@ -79,6 +80,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0696-count-binary-substrings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
