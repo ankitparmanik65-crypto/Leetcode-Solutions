@@ -8,6 +8,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -153,6 +154,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
