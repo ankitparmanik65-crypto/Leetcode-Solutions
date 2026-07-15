@@ -49,6 +49,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +183,8 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
