@@ -33,6 +33,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## String
@@ -203,5 +205,6 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
