@@ -105,6 +105,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0344-reverse-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0696-count-binary-substrings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -219,4 +220,8 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
