@@ -80,6 +80,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0696-count-binary-substrings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Simulation
@@ -166,6 +167,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,4 +226,12 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
