@@ -43,6 +43,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -56,6 +57,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0050-powx-n](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
@@ -146,6 +148,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Hash Table
