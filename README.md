@@ -136,6 +136,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
@@ -237,6 +238,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
