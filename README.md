@@ -22,6 +22,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0088-merge-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0136-single-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -152,6 +153,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
