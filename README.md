@@ -48,6 +48,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -82,6 +83,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
@@ -112,6 +114,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
