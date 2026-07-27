@@ -42,6 +42,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -148,6 +149,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0912-sort-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Prefix Sum
@@ -242,6 +244,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
