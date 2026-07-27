@@ -90,6 +90,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -122,6 +123,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0005-longest-palindromic-substring](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -286,5 +288,6 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
