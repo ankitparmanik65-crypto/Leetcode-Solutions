@@ -100,6 +100,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0151-reverse-words-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -137,6 +138,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0696-count-binary-substrings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
