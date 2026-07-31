@@ -31,6 +31,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -176,6 +177,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
