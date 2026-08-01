@@ -111,6 +111,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0696-count-binary-substrings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -216,6 +217,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0383-ransom-note](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0771-jewels-and-stones](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting Sort
