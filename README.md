@@ -53,6 +53,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1672-richest-customer-wealth](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Dynamic Programming
@@ -124,6 +125,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1678-goal-parser-interpretation](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -161,6 +163,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0876-middle-of-the-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
