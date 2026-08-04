@@ -31,6 +31,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0162-find-peak-element](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -79,6 +80,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0066-plus-one](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
@@ -157,6 +159,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0125-valid-palindrome](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
