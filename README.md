@@ -50,6 +50,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0905-sort-array-by-parity](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -295,6 +296,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
