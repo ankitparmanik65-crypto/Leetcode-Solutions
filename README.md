@@ -14,6 +14,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -82,6 +83,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
@@ -270,6 +272,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
