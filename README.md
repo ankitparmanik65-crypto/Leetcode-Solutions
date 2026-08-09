@@ -91,6 +91,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0048-rotate-image](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -125,6 +126,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -154,6 +156,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 ## Divide and Conquer
@@ -234,6 +237,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
