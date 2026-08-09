@@ -41,6 +41,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -180,6 +181,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -235,6 +237,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0136-single-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -311,6 +314,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0611-valid-triangle-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
@@ -391,4 +395,12 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
