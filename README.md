@@ -49,6 +49,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -81,6 +82,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0152-maximum-product-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0877-stone-game](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Math
@@ -193,6 +195,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0611-valid-triangle-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0696-count-binary-substrings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
+| [0845-longest-mountain-in-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
@@ -360,6 +363,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0845-longest-mountain-in-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1291-sequential-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
