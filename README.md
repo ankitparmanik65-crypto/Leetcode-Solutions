@@ -180,6 +180,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Two Pointers
@@ -258,6 +259,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0067-add-binary](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
