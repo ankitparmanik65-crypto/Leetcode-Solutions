@@ -110,6 +110,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0326-power-of-three](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0504-base-7](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
@@ -150,6 +151,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0504-base-7](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0686-repeated-string-match](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0696-count-binary-substrings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
