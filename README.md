@@ -69,6 +69,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1929-concatenation-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -119,6 +120,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -312,6 +314,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0912-sort-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
@@ -322,6 +325,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0435-non-overlapping-intervals](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0611-valid-triangle-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -433,6 +437,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,4 +460,16 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0686-repeated-string-match](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
