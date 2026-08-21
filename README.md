@@ -108,6 +108,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0067-add-binary](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -268,6 +269,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
@@ -479,4 +481,8 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
