@@ -111,6 +111,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0089-gray-code](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -181,6 +182,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -408,6 +410,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
