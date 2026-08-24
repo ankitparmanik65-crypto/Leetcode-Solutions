@@ -114,6 +114,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0258-add-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
@@ -156,6 +157,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0383-ransom-note](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
@@ -281,6 +283,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
