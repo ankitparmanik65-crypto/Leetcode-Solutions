@@ -178,6 +178,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Simulation
@@ -389,6 +390,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
