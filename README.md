@@ -65,6 +65,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -383,6 +384,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0852-peak-index-in-a-mountain-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
