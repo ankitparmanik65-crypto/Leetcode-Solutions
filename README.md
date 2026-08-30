@@ -73,6 +73,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -349,6 +350,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0611-valid-triangle-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Matrix
