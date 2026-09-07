@@ -103,6 +103,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0509-fibonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0877-stone-game](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0771-jewels-and-stones](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
