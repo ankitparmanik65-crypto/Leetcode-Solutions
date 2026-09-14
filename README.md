@@ -133,6 +133,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0504-base-7](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -532,4 +533,8 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
