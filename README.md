@@ -242,6 +242,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0151-reverse-words-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -296,6 +297,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0050-powx-n](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -470,6 +472,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
@@ -477,6 +480,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
