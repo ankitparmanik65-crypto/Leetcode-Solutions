@@ -140,6 +140,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1137-n-th-tribonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -550,4 +551,5 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
