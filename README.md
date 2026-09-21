@@ -237,6 +237,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0027-remove-element](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -472,6 +473,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
