@@ -70,6 +70,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -293,6 +294,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Recursion
@@ -353,6 +355,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0771-jewels-and-stones](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -425,6 +428,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -436,6 +440,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Heap (Priority Queue)
