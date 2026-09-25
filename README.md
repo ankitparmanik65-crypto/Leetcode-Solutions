@@ -114,6 +114,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
@@ -302,6 +303,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -480,6 +482,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
