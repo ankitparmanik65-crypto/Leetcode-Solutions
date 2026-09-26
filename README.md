@@ -72,6 +72,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -198,6 +199,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1844-replace-all-digits-with-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -360,6 +362,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
