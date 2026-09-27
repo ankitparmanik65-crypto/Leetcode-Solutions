@@ -198,6 +198,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0940-distinct-subsequences-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1678-goal-parser-interpretation](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -503,6 +504,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0042-trapping-rain-water](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -572,4 +574,8 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
