@@ -108,6 +108,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0152-maximum-product-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0877-stone-game](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -192,6 +193,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0415-add-strings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0504-base-7](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0686-repeated-string-match/) | Medium |
 | [0696-count-binary-substrings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0696-count-binary-substrings/) | Easy |
 | [0709-to-lower-case](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0709-to-lower-case/) | Easy |
@@ -402,6 +404,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0611-valid-triangle-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -516,6 +519,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0032-longest-valid-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -596,6 +600,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
