@@ -82,6 +82,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -497,6 +498,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [1291-sequential-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
