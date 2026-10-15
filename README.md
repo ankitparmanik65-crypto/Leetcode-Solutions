@@ -83,6 +83,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -388,6 +389,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -639,4 +641,12 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
