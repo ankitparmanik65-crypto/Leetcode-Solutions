@@ -47,6 +47,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0496-next-greater-element-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0611-valid-triangle-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -384,6 +385,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0387-first-unique-character-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0496-next-greater-element-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -546,6 +548,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0225-implement-stack-using-queues](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -560,6 +563,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
