@@ -48,6 +48,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0435-non-overlapping-intervals](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -549,6 +550,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0232-implement-queue-using-stacks](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -564,6 +566,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
