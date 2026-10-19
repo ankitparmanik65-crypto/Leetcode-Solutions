@@ -1,11 +1,13 @@
 class Solution:
     def targetIndices(self, nums: List[int], target: int) -> List[int]:
-        # Brute force approach
-        nums.sort()
+        # Approach : Counting
+        smaller = 0
+        equal = 0
 
-        result = []
-        for i in range(len(nums)):
-            if nums[i] == target:
-                result.append(i)
+        for num in nums:
+            if num < target:
+                smaller += 1
+            elif num == target:
+                equal += 1
 
-        return result
+        return list(range(smaller, smaller + equal))
