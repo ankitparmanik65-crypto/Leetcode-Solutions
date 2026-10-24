@@ -160,6 +160,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2119-a-number-after-a-double-reversal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2409-count-days-spent-together](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -230,6 +231,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2409-count-days-spent-together](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
