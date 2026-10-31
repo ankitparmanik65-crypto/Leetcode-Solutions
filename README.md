@@ -140,6 +140,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0070-climbing-stairs](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0189-rotate-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0224-basic-calculator](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -194,6 +195,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0115-distinct-subsequences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0224-basic-calculator](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -343,6 +345,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0021-merge-two-sorted-lists](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
@@ -559,6 +562,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0224-basic-calculator](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
