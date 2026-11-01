@@ -47,6 +47,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0349-intersection-of-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
@@ -148,6 +149,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0504-base-7](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
