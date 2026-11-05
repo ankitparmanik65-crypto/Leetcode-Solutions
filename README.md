@@ -68,6 +68,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -305,6 +306,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0905-sort-array-by-parity](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -328,6 +330,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0912-sort-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -488,6 +491,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0875-koko-eating-bananas](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
