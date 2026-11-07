@@ -78,6 +78,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1929-concatenation-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -521,6 +522,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
