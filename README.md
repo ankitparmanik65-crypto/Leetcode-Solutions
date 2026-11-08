@@ -65,6 +65,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0977-squares-of-a-sorted-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -435,6 +436,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0383-ransom-note](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0912-sort-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -468,6 +470,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0835-image-overlap](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -716,6 +719,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0110-balanced-binary-tree](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -728,4 +732,9 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->
