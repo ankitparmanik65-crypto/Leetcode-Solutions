@@ -100,6 +100,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -131,6 +132,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0940-distinct-subsequences-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
