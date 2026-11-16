@@ -252,6 +252,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2409-count-days-spent-together](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -272,6 +273,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1260-shift-2d-grid](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1929-concatenation-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Divide and Conquer
