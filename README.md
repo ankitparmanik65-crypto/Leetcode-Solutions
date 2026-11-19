@@ -91,6 +91,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -351,6 +352,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -473,6 +475,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2029-stone-game-ix](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
