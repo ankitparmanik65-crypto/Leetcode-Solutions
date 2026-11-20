@@ -96,6 +96,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -138,6 +139,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1137-n-th-tribonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -355,6 +357,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
