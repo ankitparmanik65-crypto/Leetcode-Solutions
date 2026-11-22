@@ -255,6 +255,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2409-count-days-spent-together](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
