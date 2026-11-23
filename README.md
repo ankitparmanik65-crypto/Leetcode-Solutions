@@ -68,6 +68,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1267-count-servers-that-communicate](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -176,6 +177,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1137-n-th-tribonacci-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -368,6 +370,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -722,6 +725,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0225-implement-stack-using-queues](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -735,6 +739,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
