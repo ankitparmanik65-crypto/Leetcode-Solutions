@@ -102,6 +102,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -189,6 +190,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -549,6 +551,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [2747-count-zero-request-servers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -577,6 +580,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1291-sequential-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -586,6 +590,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [0258-add-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
