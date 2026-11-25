@@ -119,6 +119,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [3886-sum-of-sortable-integers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -456,6 +457,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [3718-smallest-missing-multiple-of-k](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,6 +535,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -790,4 +793,16 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
