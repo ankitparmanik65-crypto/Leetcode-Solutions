@@ -121,6 +121,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [3904-smallest-stable-index-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +372,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -494,6 +496,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -566,6 +569,7 @@ Collection of my LeetCode solutions in python . Tracking my daily DSA practice a
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ankitparmanik65-crypto/Leetcode-Solutions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
